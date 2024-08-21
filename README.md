@@ -1,7 +1,7 @@
 Olá, me chamo Karol Silvano!
 Bem vindo ao meu perfil no GitHub 👋
 
-- 🌱 Tenho 18 anos e moro em São Paulo - SP. Atualmente estou fazendo Tecnólogo em ADS no IFSP e técnico em DS no Senai, gosto muito de tecnologia e busco cada dia aprender mais e buscar desafios!  
+- 🌱 Tenho 18 anos e moro em São Paulo - SP. Atualmente estou fazendo Tecnólogo em ADS no IFSP e sou formada em técnico em DS no Senai, gosto muito de tecnologia e busco cada dia aprender mais e buscar desafios!  
 
 ## Estou aprendendo:
 
